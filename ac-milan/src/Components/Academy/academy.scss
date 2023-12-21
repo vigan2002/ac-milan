@@ -1,0 +1,41 @@
+.academy{
+    color: wheat;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #100000;
+    padding-top: 90px;
+    min-height: 100vh;
+    .academy-wrapper {
+        margin: 50px 0;
+        width: 80%;
+        text-align: center;
+        div{
+            margin-top: 50px;
+            text-align: left;
+            font-size: 18px;
+            line-height: 30px;
+            
+            table {
+                width: 100%;
+                border: 1px solid wheat;
+                border-radius: 8px;
+                padding: 10px;
+                th{
+                    padding: 10px;
+                    font-size: 20px;
+                }
+                td {
+                    padding: 10px;
+                    border: 0.2px solid wheat;
+                    border-radius: 8px;
+                }
+            }
+        }
+    
+    }
+}
+
+
+

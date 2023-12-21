@@ -1,0 +1,85 @@
+.player {
+    color: wheat;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #100000;
+    padding-top: 90px;
+    min-height: 100vh;
+
+    .player-wrapper {
+        margin: 50px 0;
+        width: 80%;
+        text-align: center;
+        padding: 20px;
+        border: 1px solid wheat;
+        border-radius: 8px;
+        background-color: rgba(255, 255, 255, 0.1);
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+        div {
+            margin-bottom: 50px;
+            text-align: left;
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            div {
+                margin-top: 50px;
+                font-size: 18px;
+                line-height: 30px;
+            }   
+            table {
+                width: 100%;
+                border: 1px solid wheat;
+                border-radius: 8px;
+                padding: 10px;
+
+                th {
+                    padding: 10px;
+                    font-size: 20px;
+
+                    button {
+                        border: none;
+                        background-color: transparent;
+                        color: #fff;
+                        cursor: pointer;
+                    }
+                }
+
+                td {
+                    padding: 10px;
+                    border: 0.2px solid wheat;
+                    border-radius: 8px;
+                    
+                    button {
+                        border: none;
+                        background-color: transparent;
+                        color: red;
+                        cursor: pointer;
+                        .view-button{
+                            text-decoration: none;
+                            color: #fff;                        
+                        }
+                    }
+                }
+            }
+        }
+
+    }
+    button{
+        cursor: pointer;            
+        width: 100px;
+        height: 30px;
+        background-color: wheat;
+        border: none;
+        border-radius: 4px;
+        color: #100000;
+        .create-button{
+            text-decoration: none;
+            color: darkred;
+            font-size: 16px;
+            font-weight: 600;
+        }
+    }
+}

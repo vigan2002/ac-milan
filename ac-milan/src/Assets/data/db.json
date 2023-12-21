@@ -1,0 +1,54 @@
+{
+  "myplayer": [
+    {
+      "name": "Vigan Zhuri",
+      "age": "20",
+      "shirt": "22",
+      "nat": "Kosovo",
+      "position": "RM",
+      "ovr": "78",
+      "foot": "Right",
+      "id": 1
+    },
+    {
+      "name": "Rickardo Leite Kaka",
+      "age": "25",
+      "shirt": "8",
+      "nat": "Brazil",
+      "position": "CAM",
+      "ovr": "88",
+      "foot": "Right",
+      "id": 2
+    },
+    {
+      "name": "Filan Fisteku",
+      "age": "30",
+      "shirt": "18",
+      "nat": "Kosovo",
+      "position": "LB",
+      "ovr": "73",
+      "foot": "Left",
+      "id": 3
+    },
+    {
+      "name": "John Doe",
+      "age": "24",
+      "shirt": "11",
+      "nat": "Albania",
+      "position": "LM",
+      "ovr": "76",
+      "foot": "Left",
+      "id": 4
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "age": "28",
+      "shirt": "7",
+      "nat": "Portugal",
+      "position": "LW",
+      "ovr": "84",
+      "foot": "Right",
+      "id": 5
+    }
+  ]
+}
