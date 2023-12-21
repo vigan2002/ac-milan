@@ -1,2 +1,2 @@
 # ac-milan
-Get captivated by FIFA-inspired player cards in my React project, channeling my favorite football team's passion. Using a JSON server, I've created a 'My Player' section, akin to FIFA cards. Explore player profiles and experience the essence of football, all within an engaging interface.
+Step into the exhilarating world of my React project, influenced by FIFA player cards and my passion for my favorite football team. Using a JSON server, I've designed a 'My Player' section reminiscent of FIFA cards. Explore player profiles and enjoy the essence of football, all in a lively and user-friendly interface.
